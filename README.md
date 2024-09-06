@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazem alaa</h1>
 <h3 align="center">Junior Embedded Software From Egypt</h3>
 
-- 🔭 I’m currently working on **supervisor at almentor**
+- 🔭 I’m currently working on **almentor**
 
 - 🌱 I’m currently learning **Embedded Linux**
 
