@@ -2,11 +2,11 @@
 <h3 align="center">Junior Embedded Software From Egypt</h3>
 <h3 align="center">Junior Embedded Software</h3>
 
-- 🔭 I’m currently working on **almentor**
+Currently working as a **Teaching Assistant at the Faculty of Engineering, Nahda University**
 
-- 🌱 I’m currently learning **Embedded Linux**
+Working as a Supervisor at **Almentor for the Digital Egypt Cubs Initiative project**
 
-- 📫 How to reach me **hazemalaa867@gmail.com**
+How to reach me **hazemalaa867@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
