@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hazem alaa</h1>
+<h1 align="center">Hi 👋, I'm Hazem alaa eldin</h1>
 <h3 align="center">Junior Embedded Software</h3>
 
 - 🔭 I’m currently working on **almentor**
