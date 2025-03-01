@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hazem alaa eldin</h1>
+<h1 align="center">Hi 👋, Currently working as a Teaching Assistant at the Faculty of Engineering, Nahda University
+</h1>
+<h1 align="center">Hi 👋, Working as a Supervisor at Almentor for the Digital Egypt Cubs Initiative project
+</h1>
 <h3 align="center">Junior Embedded Software</h3>
 
 - 🔭 I’m currently working on **almentor**
